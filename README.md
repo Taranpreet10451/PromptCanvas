@@ -1,10 +1,4 @@
-Here’s a complete and professional `README.md` file for your **PromptCanvas: AI-Powered Text-to-Image Studio** project:
-
----
-
-````markdown
-# 🎨 PromptCanvas: AI-Powered Text-to-Image Studio
-
+## 🎨 PromptCanvas: AI-Powered Text-to-Image Studio
 **PromptCanvas** is a desktop application that allows users to generate high-quality, AI-generated images from text prompts using the power of **Stable Diffusion**. Built with `Python`, `customtkinter` for the GUI, and `diffusers` from Hugging Face, this project offers a beautiful and responsive interface for creative AI exploration.
 
 ---
@@ -133,15 +127,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🔗 Project Info
-
-**Developed for the GEN AI Project - Phase 3 Submission**
-Department of CSE, VIT Bhopal
-Project Title: *PromptCanvas: AI-Powered Text-to-Image Studio*
-
----
-
-```
-
-Would you like a `requirements.txt` file and a `LICENSE` file generated as well?
-```
